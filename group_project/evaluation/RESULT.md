@@ -4,8 +4,8 @@
 
 | Field | Value |
 | --- | --- |
-| Evaluation date (UTC) | 2026-09-20T07:44:27+00:00 |
-| Git revision | 6a2a2d4 (working tree dirty) |
+| Evaluation date (UTC) | 2026-09-20T09:05:31+00:00 |
+| Git revision | b76a86b |
 | Corpus fingerprint (SHA-256) | `8d90464bb1bbb69d` |
 | Framework | local deterministic proxy evaluator v1 |
 | Generator | extractive sentence selector (same for A/B) |
@@ -27,7 +27,7 @@ Fallback dùng cosine gốc của dense, không dùng điểm RRF. Với `SCORE_
 
 | Loại query | Query | Best dense cosine | Quyết định |
 | --- | --- | ---: | --- |
-| in-domain | Nghị quyết 217/2025/QH15 có hiệu lực từ ngày nào? | 0.221 | thử PageIndex fallback |
+| in-domain | Nghị quyết 217/2025/QH15 có hiệu lực từ ngày nào? | 0.345 | giữ hybrid |
 | out-of-domain | Đội tuyển nào vô địch World Cup bóng đá nam năm 2022? | 0.155 | thử PageIndex fallback |
 
 Query ngoài domain nằm dưới threshold nên pipeline thử PageIndex; nếu provider không cấu hình hoặc lỗi, pipeline giữ kết quả hybrid và generation phải từ chối khi context không đủ bằng chứng.
