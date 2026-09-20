@@ -1,0 +1,77 @@
+[
+  {
+    "question": "Nghị định 81/2021/NĐ-CP điều chỉnh những nội dung gì?",
+    "expected_answer": "Nghị định quy định cơ chế thu, quản lý học phí; chính sách miễn, giảm học phí, hỗ trợ chi phí học tập và giá dịch vụ giáo dục, đào tạo.",
+    "expected_context": "cơ chế thu quản lý học phí miễn giảm học phí hỗ trợ chi phí học tập giá dịch vụ giáo dục đào tạo"
+  },
+  {
+    "question": "Nghị định 81/2021/NĐ-CP có hiệu lực từ ngày nào?",
+    "expected_answer": "Nghị định có hiệu lực từ ngày 15 tháng 10 năm 2021.",
+    "expected_context": "ngày có hiệu lực 15-10-2021 nghị định 81/2021/NĐ-CP"
+  },
+  {
+    "question": "Nghị quyết 217/2025/QH15 được ban hành và có hiệu lực ngày nào?",
+    "expected_answer": "Nghị quyết được ban hành và có hiệu lực ngày 26 tháng 6 năm 2025.",
+    "expected_context": "Nghị quyết 217/2025/QH15 ngày ban hành 26-06-2025 ngày có hiệu lực 26-06-2025"
+  },
+  {
+    "question": "Nghị quyết 217/2025/QH15 nói về chính sách nào?",
+    "expected_answer": "Nghị quyết quy định miễn, hỗ trợ học phí đối với trẻ em mầm non, học sinh phổ thông và người học chương trình giáo dục phổ thông.",
+    "expected_context": "miễn hỗ trợ học phí trẻ em mầm non học sinh phổ thông người học chương trình giáo dục phổ thông"
+  },
+  {
+    "question": "Ngôn ngữ chính thức trong cơ sở giáo dục đại học là gì?",
+    "expected_answer": "Tiếng Việt là ngôn ngữ chính thức dùng trong cơ sở giáo dục đại học.",
+    "expected_context": "Tiếng Việt là ngôn ngữ chính thức dùng trong cơ sở giáo dục đại học"
+  },
+  {
+    "question": "Nguồn tài chính của cơ sở giáo dục đại học gồm những nguồn nào?",
+    "expected_answer": "Nguồn tài chính gồm ngân sách nhà nước, học phí và lệ phí tuyển sinh, thu từ hợp tác đào tạo và khoa học công nghệ, tài trợ, đầu tư và các nguồn hợp pháp khác.",
+    "expected_context": "ngân sách nhà nước học phí lệ phí tuyển sinh hợp tác đào tạo khoa học công nghệ tài trợ viện trợ đầu tư nguồn thu hợp pháp"
+  },
+  {
+    "question": "Mức học phí và lệ phí tuyển sinh phải được công bố khi nào?",
+    "expected_answer": "Mức thu học phí và lệ phí tuyển sinh phải được công bố công khai cùng thời điểm với thông báo tuyển sinh.",
+    "expected_context": "mức thu học phí lệ phí tuyển sinh công bố công khai cùng thời điểm thông báo tuyển sinh"
+  },
+  {
+    "question": "Cơ sở giáo dục đại học tư thục có quyền quyết định học phí không?",
+    "expected_answer": "Cơ sở giáo dục đại học tư thục được chủ động xây dựng và quyết định mức thu học phí, lệ phí tuyển sinh theo pháp luật.",
+    "expected_context": "cơ sở giáo dục đại học tư thục chủ động xây dựng quyết định mức thu học phí lệ phí tuyển sinh"
+  },
+  {
+    "question": "Điều kiện về cơ sở vật chất để cơ sở giáo dục đại học được hoạt động đào tạo là gì?",
+    "expected_answer": "Cơ sở phải có đất đai, cơ sở vật chất, thiết bị, ký túc xá, cơ sở giáo dục thể chất và môi trường sư phạm an toàn đáp ứng yêu cầu đào tạo.",
+    "expected_context": "đất đai cơ sở vật chất thiết bị ký túc xá giáo dục thể chất môi trường sư phạm an toàn"
+  },
+  {
+    "question": "Chương trình đào tạo trình độ đại học gồm các thành phần chính nào?",
+    "expected_answer": "Chương trình gồm mục tiêu, chuẩn kiến thức và kỹ năng sau tốt nghiệp, nội dung đào tạo và phương pháp đánh giá đối với mỗi môn học và ngành học.",
+    "expected_context": "mục tiêu chuẩn kiến thức kỹ năng nội dung đào tạo phương pháp đánh giá môn học ngành học"
+  },
+  {
+    "question": "Cơ sở giáo dục đại học có trách nhiệm gì về bảo đảm chất lượng?",
+    "expected_answer": "Cơ sở phải bảo đảm chất lượng đào tạo và thực hiện kiểm định chất lượng giáo dục đại học.",
+    "expected_context": "bảo đảm chất lượng thực hiện kiểm định chất lượng giáo dục đại học"
+  },
+  {
+    "question": "Thông tư 02/2022 quy định về vấn đề gì trong đào tạo đại học?",
+    "expected_answer": "Thông tư quy định điều kiện, trình tự và thủ tục mở ngành đào tạo, đình chỉ hoạt động ngành đào tạo ở các trình độ của giáo dục đại học.",
+    "expected_context": "điều kiện trình tự thủ tục mở ngành đào tạo đình chỉ hoạt động ngành đào tạo"
+  },
+  {
+    "question": "Một điều kiện về giảng viên khi mở ngành đào tạo trình độ đại học là gì?",
+    "expected_answer": "Cơ sở đào tạo phải có ít nhất một tiến sĩ ngành phù hợp là giảng viên cơ hữu theo điều kiện của ngành dự kiến mở.",
+    "expected_context": "ít nhất 01 tiến sĩ ngành phù hợp giảng viên cơ hữu điều kiện mở ngành đào tạo trình độ đại học"
+  },
+  {
+    "question": "Nghị định 99/2019/NĐ-CP hướng dẫn thi hành luật nào?",
+    "expected_answer": "Nghị định 99/2019/NĐ-CP quy định chi tiết và hướng dẫn thi hành một số điều của Luật sửa đổi, bổ sung một số điều của Luật Giáo dục đại học.",
+    "expected_context": "Nghị định 99/2019/NĐ-CP quy định chi tiết hướng dẫn thi hành Luật sửa đổi bổ sung Luật Giáo dục đại học"
+  },
+  {
+    "question": "Thông tư 06/2026/TT-BGDĐT điều chỉnh lĩnh vực nào?",
+    "expected_answer": "Thông tư ban hành quy chế tuyển sinh các ngành đào tạo trình độ đại học và ngành Giáo dục Mầm non trình độ cao đẳng.",
+    "expected_context": "Thông tư 06/2026/TT-BGDĐT quy chế tuyển sinh trình độ đại học Giáo dục Mầm non cao đẳng"
+  }
+]
